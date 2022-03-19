@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- Wishing by scroll -->
-<marquee> Hello ,  Thanks for visit ! </marquee>
+<marquee>This is basic example of marquee</marquee>
 
 <br>
 

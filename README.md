@@ -19,7 +19,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Persuing B.Tech
+- 🔭 I’m currently Persuing Computer Science and Engineering
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for Internships and Job oppurtunities
 - 💬 Ask me about Programming Languages

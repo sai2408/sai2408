@@ -1,7 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- Introduction -->
-My name is Venkata Sai vardhan Thimmisetty persuing B.Tech at kkr and ksr institute of technology and Sciences, Guntur in the stream of Computer Science and Engineering.
 
 
 <!-- no of vies of our account -->

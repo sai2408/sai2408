@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- Display picture -->
-<img src="https://user-images.githubusercontent.com/57175225/159132079-65cac7e8-a9dd-4e62-8a77-8919357c7df3.png" alt="my banner" width="500">
+<img src="https://user-images.githubusercontent.com/57175225/159132079-65cac7e8-a9dd-4e62-8a77-8919357c7df3.png" alt="my banner" width="500" height="600">
 
 <!-- no of vies of our account -->
 <p align="left"> 

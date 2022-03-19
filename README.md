@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for Internships and Job oppurtunities
 - 💬 Ask me about Programming Languages
-- 📫 How to reach me: linked in -- https://www.linkedin.com/in/saii-vardhan-778389186/
+- 📫 How to reach me: 
+- <ol type="I">
+  <li>Linked in :- https://www.linkedin.com/in/saii-vardhan-778389186/</li>
+  <li>Hacker Rank :- https://www.hackerrank.com/cse_19jr1a05i2 </li>
+  <li>Sleep</li>
+</ol>
 - 😄 Pronouns: Sai
 

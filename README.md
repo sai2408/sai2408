@@ -1,15 +1,22 @@
 ### Hi there 👋
 
 
-
+<!-- no of vies of our account -->
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sai2408&label=Views&color=blue&style=plastic" alt="sai2408" />
  </p>
  
+ 
+ <!- Code for graphical representation of languaes used -->
  <a href="https://github.com/sai2408">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai2408&theme=light&hide_langs_below=1" />
 </a>
+
+
 <br>
+<br>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Persuing B.Tech

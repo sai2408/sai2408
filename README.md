@@ -21,14 +21,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Persuing Computer Science and Engineering
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for Internships and Job oppurtunities
+- 🔭 Took B.Tech Degree in Computer Science and Engineering
+- 🌱 Perfect in Python, Java, C and C++ Programming Language
+- 🤔 I’m looking for IJob oppurtunities
 - 💬 Ask me about Programming Languages
 - 📫 How to reach me: 
 - <ol type="I">
   <li>Linked in :- https://www.linkedin.com/in/saii-vardhan-778389186/</li>
   <li>Hacker Rank :- https://www.hackerrank.com/cse_19jr1a05i2 </li>
+  <li>Portfolio :- saivardhan.netlify.app </li>
 </ol>
 
 - 😄 Pronouns: Sai

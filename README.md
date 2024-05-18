@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - <ol type="I">
   <li>Linked in :- https://www.linkedin.com/in/saii-vardhan-778389186/</li>
-  <li>Hacker Rank :- https://www.hackerrank.com/cse_19jr1a05i2 </li>
   <li>Portfolio :- saivardhan.netlify.app </li>
 </ol>
 

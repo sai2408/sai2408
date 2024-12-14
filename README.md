@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Programming Languages
 - 📫 How to reach me: 
 - <ol type="I">
-  <li>Linked in :- https://www.linkedin.com/in/saii-vardhan-778389186/</li>
+  <li>Linked in :- https://www.linkedin.com/in/sai-vardhan-thimmisetty/</li>
   <li>Portfolio :- saivardhan.netlify.app </li>
 </ol>
 

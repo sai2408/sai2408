@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 Took B.Tech Degree in Computer Science and Engineering
 - 🌱 Perfect in Python, Java, C and C++ Programming Language
-- 🤔 I’m looking for IJob oppurtunities
+- 🤔 I’m looking for IT Job oppurtunities
 - 💬 Ask me about Programming Languages
 - 📫 How to reach me: 
 - <ol type="I">

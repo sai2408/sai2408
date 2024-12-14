@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - <ol type="I">
   <li>Linked in :- https://www.linkedin.com/in/sai-vardhan-thimmisetty/</li>
-  <li>Portfolio :- saivardhan.netlify.app </li>
+  <li>Portfolio :- http://saivardhan.netlify.app </li>
 </ol>
 
 - 😄 Pronouns: Sai

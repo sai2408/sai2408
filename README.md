@@ -4,9 +4,7 @@
 
 
 <!-- no of vies of our account -->
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=sai2408&label=Views&color=blue&style=plastic" alt="sai2408" />
- </p>
+
  
  
  <!-- Code for graphical representation of languaes used -->
